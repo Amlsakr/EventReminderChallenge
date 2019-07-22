@@ -1,0 +1,6 @@
+com.example.aml.eventreminderchallenge
+com.example.aml.eventreminderchallenge.adapter
+com.example.aml.eventreminderchallenge.eventBus
+com.example.aml.eventreminderchallenge.model
+com.example.aml.eventreminderchallenge.model.weather
+com.example.aml.eventreminderchallenge.retrofit
